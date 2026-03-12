@@ -1,0 +1,11 @@
+[general]
+name=Parametryzacja zabudowy
+qgisMinimumVersion=3.0
+description=Generuje ścieżkę Hamiltona metodą najbliższego sąsiada (NN) dla wskazanej warstwy punktowej.
+version=1.0
+author=Michał Maciąg
+email=michal.maciag@up.edu.pl
+about=Wtyczka optymalizująca trasowanie pomiędzy punktami. Zastępuje ręczne łączenie węzłów algorytmem zachłannym.
+repository=
+tracker=
+category=Vector
